@@ -14,7 +14,7 @@ Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 
-### Name: Hycint D
+### Name: Hycinth D
 ### Register No: 212223240055
 ## Program:
 ```
